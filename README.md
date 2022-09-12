@@ -1,4 +1,4 @@
-# CODING-NINJAS-CPP-COURSE
+# CODING-NINJAS-CPP-COURSE  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 # Hello,fellow ninjas!!<br />
 ## I am Ritabrata Dey,currently pursuing B.Tech in Computer Science Engineering at B.P.Poddar Institute Of Management & Technology(2021-2025).<br />
 <br />   In this repository , I am going to store  answers, assignments of coding ninjas C++ course.(25th April,2022 - ).<br />
